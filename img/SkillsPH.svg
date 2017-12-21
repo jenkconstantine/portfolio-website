@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="323px" height="323px" viewBox="0 0 323 323" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-12">
+            <g id="Group" transform="translate(15.000000, 16.000000)">
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="54.9238281" cy="149.597656" r="54.0761719"></circle>
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="145.469727" cy="131.991211" r="36.4697266"></circle>
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="238.069336" cy="166.204102" r="54.1298828"></circle>
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="103.521484" cy="64.2988281" r="42.8300781"></circle>
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="206.363281" cy="58.1171875" r="58.0117188"></circle>
+                <circle id="Oval-10" stroke="#FFFFFF" stroke-width="3" cx="139.991211" cy="229.71582" r="60.9072266"></circle>
+                <text id="UI" font-family="MuseoSans-300, Museo Sans" font-size="25" font-weight="300" letter-spacing="0.625" fill="#FFFFFF">
+                    <tspan x="41.8363281" y="158.097656">UI</tspan>
+                </text>
+                <text id="UX" font-family="MuseoSans-300, Museo Sans" font-size="25" font-weight="300" letter-spacing="0.625" fill="#FFFFFF">
+                    <tspan x="189.288281" y="66.6171875">UX</tspan>
+                </text>
+                <text id="Motion" font-family="MuseoSans-300, Museo Sans" font-size="20" font-weight="300" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="69.4414844" y="71.2988281">Motion</tspan>
+                </text>
+                <text id="Skills" font-family="MuseoSans-300, Museo Sans" font-size="20" font-weight="300" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="121.879727" y="138.991211">Skills</tspan>
+                </text>
+                <text id="Web-Dev" font-family="MuseoSans-300, Museo Sans" font-size="20" font-weight="300" line-spacing="21" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="214.459336" y="163.544102">Web </tspan>
+                    <tspan x="217.179336" y="184.544102">Dev</tspan>
+                </text>
+                <text id="Design" font-family="MuseoSans-300, Museo Sans" font-size="20" font-weight="300" line-spacing="21" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="106.991211" y="238.21582">Design</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

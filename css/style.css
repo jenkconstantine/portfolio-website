@@ -1,0 +1,87 @@
+/*
+Colors used
+Hero BG gradient: top left, #000DFF 0%, #75FFE6 50%, #A302FF 100%
+Text-White FFFFFF
+
+*/
+
+body {
+  background-image: -webkit-linear-gradient(top left, #000DFF 0%, #75FFE6 50%, #A302FF 100%);
+  font-family: 'Comfortaa', cursive;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: lighter;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  margin: 10px;
+}
+
+h3 {
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  color: white;
+  width: 25%;
+  font-size: 16;
+  padding: 10px;
+  margin: 10px;
+  line-height: 1.7;
+}
+
+a {
+  color: #AB34FC;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  color: #489c79;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  font-family: inherit;
+
+  background-color: #AB34FC;
+  font-size: 16px;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  border-bottom: 2pm solid #03474c;
+}
+
+button:hover,
+button:focus {
+  cursor: pointer;
+  opacity:0.8;
+}
