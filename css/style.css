@@ -198,6 +198,10 @@ nav a {
 .work-page {
   background: -webkit-linear-gradient(45deg, rgba(56,136,255,1) 0%, rgba(107,255,248,1) 50%, rgba(255,243,138,1) 100%);
 }
+img {
+    width: 100%;
+    height: auto;
+}
 
 /* Responsive */
 @media all and (max-width: 600px) {
