@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="150px" viewBox="0 0 141 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 16 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4828603%" id="linearGradient-1">
+            <stop stop-color="#DDDDDD" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="97.4828603%" x2="50%" y2="-1.11022302e-14%" id="linearGradient-2">
+            <stop stop-color="#9C9C9C" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.96954719%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.361837636" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-16-Copy">
+            <g id="Group-2" transform="translate(4.000000, 6.500000)">
+                <g id="Group" transform="translate(42.000000, 85.000000)">
+                    <path d="M12.8900291,1.921875 L36.1099709,1.921875 C39.2188241,1.921875 42.0231123,3.82331933 42.3735239,6.16886978 L48.5596672,47.5770689 C48.9100787,49.9226193 45.584039,51.8240636 41.1307496,51.8240636 L7.86925036,51.8240636 C3.41596095,51.8240636 0.0899212831,49.9226193 0.440332831,47.5770689 L6.62647611,6.16886978 C6.97688766,3.82331933 9.78117587,1.921875 12.8900291,1.921875 Z" id="Rectangle-35-Copy" fill="#FFFFFF"></path>
+                    <path d="M12.9813058,0.921875 L36.0186942,0.921875 C39.1031059,0.921875 41.885347,2.76989114 42.2330037,5.04953457 L48.370512,45.2942154 C48.7181686,47.5738589 45.418278,49.421875 41,49.421875 L8,49.421875 C3.581722,49.421875 0.281831392,47.5738589 0.629488032,45.2942154 L6.76699634,5.04953457 C7.11465298,2.76989114 9.8968941,0.921875 12.9813058,0.921875 Z" id="Rectangle-35" fill="url(#linearGradient-1)"></path>
+                    <path d="M14.2662117,1.76953125 L34.7337883,1.76953125 C37.4741351,1.76953125 39.9460183,3.4841854 40.254894,5.59931848 L45.7077656,42.939744 C46.0166413,45.0548771 43.0848522,46.7695312 39.1594314,46.7695312 L9.84056862,46.7695312 C5.91514783,46.7695312 2.98335874,45.0548771 3.29223441,42.939744 L8.74510605,5.59931848 C9.05398172,3.4841854 11.5258649,1.76953125 14.2662117,1.76953125 Z" id="Rectangle-35" fill="url(#linearGradient-2)"></path>
+                </g>
+                <polygon id="Triangle-2" fill="url(#linearGradient-3)" points="66.5 111 132.5 0 0.5 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
