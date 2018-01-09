@@ -52,17 +52,21 @@ a:hover, a:focus {
 a:active {
   color: #000000;
 }
-button {
+button,
+ a.button {
   border: none;
   font-family: inherit;
   background-color: #151F31;
   font-size: 16px;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
+  text-decoration:none;
   padding: 10px;
   border-radius: 3px;
-}
+  transition-duration: 0.2s;
+  transition-property: opacity;
+  }
 button:hover,
-button:focus {
+.button:hover {
   cursor: pointer;
   opacity:0.8;
 }
@@ -164,7 +168,7 @@ nav a {
   background-color: #222;
 }
 
-#ABOUT h1,h2,p {
+#ABOUT h1, #ABOUT h2, #ABOUT p {
     color: #FFFFFF;
 }
 
@@ -191,8 +195,59 @@ nav a {
   color: white;
 }
 
-/* Work section */
+/* Animation Task */
+@keyframes color-change {
+  0% {fill: #EDC655;}
+  50% {fill: #fcffad;}
+  100% {fill: #f76414;}
+}
+.sun {
+  animation: 4s color-change infinite alternate linear;
+}
 
+@keyframes cloud-move {
+  from {transform: translate(0,50px);}
+  to {transform: translate(200px,50px);}
+}
+.cloud-front {
+  animation: 45s cloud-move infinite alternate linear;
+}
+
+@keyframes cloud-move-reverse {
+  from {transform: translate(446px,48px);}
+  to {transform: translate(100px,48px);}
+}
+.cloud-back {
+  animation: 80s cloud-move-reverse infinite linear;
+}
+/* Big boat animation */
+@keyframes big-boat-move {
+  from {transform: translate(150px,400px);}
+  to {transform: translate(400px,400px);}
+}
+.big-boat {
+  animation: 20s big-boat-move infinite alternate linear;
+}
+
+/* Small boat animation */
+@keyframes small-boat-move {
+  from {transform: translate(300px,330px);}
+  to {transform: translate(400px,330px);}
+}
+.small-boat {
+  animation: 20s small-boat-move infinite alternate-reverse linear;
+}
+
+/* Tower light */
+
+@keyframes tow-light-color {
+  0% {fill: #01E2D8;}
+  50% {fill: #FFFFFF;}
+  100% {fill: #f76414;}
+}
+.tow-light {
+  animation: 1s tow-light-color infinite alternate linear;
+}
 
 /* Footer */
 footer {
@@ -217,7 +272,7 @@ ul.social li svg{
     width: 100%;
 }
 #WORK {
- background: -webkit-linear-gradient(top, rgba(214,218,221,1) 0%, rgba(200,202,202,0.88) 100%);
+ background-color: #FFFFFF;
 }
 
 /* Desktop */
