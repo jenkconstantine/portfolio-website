@@ -12,6 +12,10 @@ body {
   margin: 0;
   color: #222;
 }
+.project-details {
+  display: none;
+}
+
 .center {
   text-align: center;
 }
@@ -52,25 +56,18 @@ a:hover, a:focus {
 a:active {
   color: #000000;
 }
-button,
- a.button {
+button, .button {
   border: none;
-  font-family: inherit;
   background-color: #151F31;
-  font-size: 16px;
   color: #FFFFFF !important;
-  text-decoration:none;
   padding: 10px;
   border-radius: 3px;
-  transition-duration: 0.2s;
-  transition-property: opacity;
+  display: inline-block;
+  transition: background-color 0.5s ease;
   }
-button:hover,
-.button:hover {
-  cursor: pointer;
-  opacity:0.8;
+button:hover, .button:hover {
+  background-color:rgba(21, 31, 49, 0.8);
 }
-
 /* Container & columns & rows */
 .container {
  max-width: 1000px;

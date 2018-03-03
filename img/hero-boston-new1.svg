@@ -1,113 +1,61 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700" rel="stylesheet">
-  <meta charset="utf-8">
-  <meta name="viewport" content="device-width, initial-scale=1.0">
-  <title>Jenk's Portfolio</title>
-  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-
-</head>
-<body>
-  <!-- Header -->
-  <header>
-    <div class="container p50">
-      <a href="index.html" alt="logo" class="my-logo">
-        <svg class="logo" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-          <title>Artboard 15</title>
-          <desc>Created with Sketch.</desc>
-          <defs>
-            <linearGradient x1="50%" y1="6.70913825%" x2="50%" y2="94.9365244%" id="linearGradient-1">
-              <stop stop-color="#7E7E7E" offset="0%"></stop>
-              <stop stop-color="#222222" offset="100%"></stop>
-            </linearGradient>
-            <linearGradient x1="50%" y1="6.88685225%" x2="50%" y2="100%" id="linearGradient-2">
-              <stop stop-color="#FFFFFF" offset="0.0398596939%"></stop>
-              <stop stop-color="#D4D4D4" offset="100%"></stop>
-            </linearGradient>
-          </defs>
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Artboard-15">
-              <g id="Group" transform="translate(8.500000, 0.500000)">
-                <path d="M55,1.13419273 L103.84531,29.3350456 C105.082914,30.0495767 105.84531,31.3700848 105.84531,32.7991472 L105.84531,89.2008528 C105.84531,90.6299152 105.082914,91.9504233 103.84531,92.6649544 L55,120.865807 C53.7623957,121.580338 52.2376043,121.580338 51,120.865807 L2.15469008,92.6649544 C0.917085776,91.9504233 0.154690083,90.6299152 0.154690083,89.2008528 L0.154690083,32.7991472 C0.154690083,31.3700848 0.917085776,30.0495767 2.15469008,29.3350456 L51,1.13419273 C52.2376043,0.419661546 53.7623957,0.419661546 55,1.13419273 Z" id="Path" fill="url(#linearGradient-1)"></path>
-                <path d="M54.8916016,19.1932171 L54.8916016,38.25 L50.8916016,38.25 L50.8916016,16.8144531 C50.8916016,15.7098836 51.7870321,14.8144531 52.8916016,14.8144531 C52.9279693,14.8144531 52.9641102,14.8154238 53,14.8173407 L53,14.75 C66.1167628,14.75 76.75,25.3832372 76.75,38.5 C76.75,48.9500865 70.0008055,57.8238141 60.6235996,61 C70.0008055,64.1761859 76.75,73.0499135 76.75,83.5 L72.1454341,83.5 C72.1454832,83.4821021 72.1455078,83.4641985 72.1455078,83.4462891 C72.1455078,72.8703597 63.5720231,64.296875 52.9960938,64.296875 C42.4201644,64.296875 33.8466797,72.8703597 33.8466797,83.4462891 C33.8466797,94.0222184 42.4201644,102.595703 52.9960938,102.595703 L53,102.595703 L53,107.25 C39.8832372,107.25 29.25,96.6167628 29.25,83.5 C29.25,73.0499135 35.9991945,64.1761859 45.3764004,61 C35.9991945,57.8238141 29.25,48.9500865 29.25,38.5 L33.8482782,38.5 C33.9821183,48.9607094 42.5036235,57.3994141 52.9960938,57.3994141 C63.5720231,57.3994141 72.1455078,48.8259294 72.1455078,38.25 C72.1455078,28.3137161 64.5777316,20.144981 54.8916016,19.1932171 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
-              </g>
-            </g>
-          </g>
-        </svg>
-      </a>
-      <nav>
-        <ul class="navigation">
-          <li><a href="#ABOUT">About</a></li>
-          <li><a href="#WORK">Work</a></li>
-          <li><a href="#CONTACT">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-    <!-- Hero section -->
-    <div class="container p50">
-      <h1>Welcome to my portfolio! <b>I'm Jenk</b><span>, a UI/UX designer and artist.</span></h1>
-      <div class="center hero-section">
-        <svg class="hero-img" viewBox="0 0 673 681" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-          <title>Artboard 8 Copy 21</title>
-          <desc>Created with Sketch.</desc>
-          <defs>
-            <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-              <stop stop-color="#151F31" offset="0%"></stop>
-              <stop stop-color="#40536A" offset="100%"></stop>
-            </linearGradient>
-            <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
-              <stop stop-color="#D664FF" offset="0%"></stop>
-              <stop stop-color="#5C34FD" offset="100%"></stop>
-            </linearGradient>
-            <polygon id="path-3" points="31.7542875 64.9470846 50.4567831 48.5842039 50.4567831 310.549315 31.7542875 310.549315"></polygon>
-            <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
-              <stop stop-color="#00C6FA" offset="0%"></stop>
-              <stop stop-color="#00FEB9" offset="100%"></stop>
-            </linearGradient>
-            <polygon id="path-5" points="34.6184725 63.7919393 2.51433701 56.2209183 2.51433701 279.502415 34.6184725 305.944229"></polygon>
-            <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
-              <stop stop-color="#868686" offset="0%"></stop>
-              <stop stop-color="#4E4E4E" offset="100%"></stop>
-            </linearGradient>
-            <linearGradient x1="50%" y1="248.24372%" x2="50%" y2="50%" id="linearGradient-7">
-              <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
-              <stop stop-color="#111111" offset="100%"></stop>
-            </linearGradient>
-            <linearGradient x1="50%" y1="370.972381%" x2="50%" y2="-2.22044605e-14%" id="linearGradient-8">
-              <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
-              <stop stop-color="#000000" offset="100%"></stop>
-            </linearGradient>
-          </defs>
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g id="Artboard-8-Copy-21">
-              <path d="M343.703887,3.48243832 L666.075012,338.318623 L6.92498779,338.318623 L329.296113,3.48243832 C333.126597,-0.496158648 339.457109,-0.61622761 343.435706,3.21425678 C343.526787,3.30194723 343.616197,3.39135716 343.703887,3.48243832 Z" id="sky-tri" fill="#222222"></path>
-              <path d="M343.759152,340.852863 L666.075012,681.038063 L6.92498779,681.038063 L329.240848,340.852863 C333.039375,336.843744 339.368723,336.673025 343.377842,340.471553 C343.50835,340.595205 343.6355,340.722355 343.759152,340.852863 Z" id="water-tri" fill="url(#linearGradient-1)" transform="translate(336.500000, 509.384373) scale(1, -1) translate(-336.500000, -509.384373) "></path>
-              <g id="Tower" transform="translate(310.000000, 15.000000)">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="673px" height="681px" viewBox="0 0 673 681" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 8 Copy 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#151F31" offset="0%"></stop>
+            <stop stop-color="#40536A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#D664FF" offset="0%"></stop>
+            <stop stop-color="#5C34FD" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="31.7542875 64.9470846 50.4567831 48.5842039 50.4567831 310.549315 31.7542875 310.549315"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#00C6FA" offset="0%"></stop>
+            <stop stop-color="#00FEB9" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="34.6184725 63.7919393 2.51433701 56.2209183 2.51433701 279.502415 34.6184725 305.944229"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#868686" offset="0%"></stop>
+            <stop stop-color="#4E4E4E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="248.24372%" x2="50%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#111111" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="370.972381%" x2="50%" y2="-2.22044605e-14%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-8-Copy-22">
+            <path d="M343.703887,3.48243832 L666.075012,338.318623 L6.92498779,338.318623 L329.296113,3.48243832 C333.126597,-0.496158648 339.457109,-0.61622761 343.435706,3.21425678 C343.526787,3.30194723 343.616197,3.39135716 343.703887,3.48243832 Z" id="sky-tri" fill="#222222"></path>
+            <path d="M343.759152,677.915882 C343.6355,678.04639 343.50835,678.17354 343.377842,678.297193 C339.368723,682.09572 333.039375,681.925001 329.240848,677.915882 L6.92498779,337.730682 L666.075012,337.730682 L343.759152,677.915882 Z" id="water-tri" fill="url(#linearGradient-1)"></path>
+            <g id="Tower" transform="translate(310.000000, 15.000000)">
                 <polygon id="Path-33" fill="#626262" points="49.5080327 47.8587269 17.1548611 47.8587269 3.68378795 67.6676858 35.8841312 67.6676858"></polygon>
                 <g id="Rectangle-40">
-                  <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
-                  <path stroke="#BC05C3" stroke-width="1" d="M31.2542875,64.720184 L50.9567831,47.4823998 L50.9567831,311.049315 L31.2542875,311.049315 L31.2542875,64.720184 Z"></path>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#BC05C3" stroke-width="1" d="M31.2542875,64.720184 L50.9567831,47.4823998 L50.9567831,311.049315 L31.2542875,311.049315 L31.2542875,64.720184 Z"></path>
                 </g>
                 <g id="Rectangle-40">
-                  <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
-                  <path stroke="#5CF3FF" stroke-width="1" d="M34.1184725,64.1877413 L3.01433701,56.8525473 L3.01433701,279.26647 L34.1184725,304.884658 L34.1184725,64.1877413 Z"></path>
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <path stroke="#5CF3FF" stroke-width="1" d="M34.1184725,64.1877413 L3.01433701,56.8525473 L3.01433701,279.26647 L34.1184725,304.884658 L34.1184725,64.1877413 Z"></path>
                 </g>
                 <g id="Group-3" transform="translate(26.509991, 47.724277) rotate(14.000000) translate(-26.509991, -47.724277) translate(2.609554, 35.895123)">
-                  <path d="M4.93641444,23.1593724 L2.45524697,24.2499167 L1.27664894,19.1165256 L6.60824005,16.8324325 L14.2964077,5.69491922 L33.4280964,5.34260758 L46.4353493,-0.229795823 L47.5092091,4.44740695 L45.9991754,5.11111012 L47.2697832,5.08771177 L34.2718215,22.8655507 L4.93641444,23.1593724 Z" id="Combined-Shape" fill="#282828"></path>
-                  <polygon id="Path-33" fill="url(#linearGradient-4)" points="46.6495793 0.148234745 14.2964077 0.148234745 0.825334561 18.2858929 33.0256779 18.2858929"></polygon>
+                    <path d="M4.93641444,23.1593724 L2.45524697,24.2499167 L1.27664894,19.1165256 L6.60824005,16.8324325 L14.2964077,5.69491922 L33.4280964,5.34260758 L46.4353493,-0.229795823 L47.5092091,4.44740695 L45.9991754,5.11111012 L47.2697832,5.08771177 L34.2718215,22.8655507 L4.93641444,23.1593724 Z" id="Combined-Shape" fill="#282828"></path>
+                    <polygon id="Path-33" fill="url(#linearGradient-4)" points="46.6495793 0.148234745 14.2964077 0.148234745 0.825334561 18.2858929 33.0256779 18.2858929"></polygon>
                 </g>
                 <g id="Group-3" transform="translate(26.668497, 41.118912) rotate(14.000000) translate(-26.668497, -41.118912) translate(7.289765, 31.036897)">
-                  <path d="M2.7451164,19.3963933 L1.82576907,19.7856651 L0.993707293,16.1714781 L5.40006414,14.2983008 L11.4371262,5.51717147 L26.4227968,5.36137008 L37.1410492,0.804955842 L37.9858959,4.47467604 L36.1301348,5.26044589 L38.1259544,5.23969597 L27.8038596,19.5582386 L2.7451164,19.3963933 Z" id="Combined-Shape" fill="#282828"></path>
-                  <polygon id="Path-33" fill="#FFFFFF" points="37.3196634 1.0678046 11.4371262 1.0678046 0.660267649 15.6172342 26.4205423 15.6172342"></polygon>
+                    <path d="M2.7451164,19.3963933 L1.82576907,19.7856651 L0.993707293,16.1714781 L5.40006414,14.2983008 L11.4371262,5.51717147 L26.4227968,5.36137008 L37.1410492,0.804955842 L37.9858959,4.47467604 L36.1301348,5.26044589 L38.1259544,5.23969597 L27.8038596,19.5582386 L2.7451164,19.3963933 Z" id="Combined-Shape" fill="#282828"></path>
+                    <polygon id="Path-33" fill="#FFFFFF" points="37.3196634 1.0678046 11.4371262 1.0678046 0.660267649 15.6172342 26.4205423 15.6172342"></polygon>
                 </g>
                 <polygon id="Path-34" fill="#D0D0D0" fill-rule="nonzero" points="27.9382593 40.2183932 24.5587545 40.2183932 25.4522868 0.840853467 27.2596661 0.840853467"></polygon>
-              </g>
-              <g id="Blue-water" transform="translate(133.000000, 382.000000)" stroke="url(#linearGradient-4)">
+            </g>
+            <g id="Blue-water" transform="translate(133.000000, 382.000000)" stroke="url(#linearGradient-4)">
                 <path d="M0.491219518,20.5 C0.491219518,20.5 36.6196623,20.5 108.876548,20.5" id="Path-29"></path>
                 <path d="M139.88252,66.5 C139.88252,66.5 159.272016,66.5 198.051007,66.5" id="Path-29"></path>
                 <path d="M166.371835,0.5 C166.371835,0.5 208.359089,0.5 292.333597,0.5" id="Path-29"></path>
@@ -119,8 +67,8 @@
                 <path d="M209.076716,235.5 C209.076716,235.5 221.551144,235.5 246.5,235.5" id="Path-29"></path>
                 <path d="M236.868047,161.5 C236.868047,161.5 262.071706,161.5 312.479022,161.5" id="Path-29"></path>
                 <path d="M173.5984,206 C121.546263,206 131.513462,206 203.5,206" id="Path-29" transform="translate(172.166658, 206.500000) scale(1, -1) translate(-172.166658, -206.500000) "></path>
-              </g>
-              <g id="White-water" transform="translate(79.000000, 384.000000)">
+            </g>
+            <g id="White-water" transform="translate(79.000000, 384.000000)">
                 <path d="M67.9005718,44.5 C67.9005718,44.5 84.9202721,44.5 118.959673,44.5" id="Path-29" stroke="#DCDCDC"></path>
                 <path d="M192.590605,39.5 C192.590605,39.5 205.50976,39.5 231.34807,39.5" id="Path-29" stroke="#DCDCDC"></path>
                 <path d="M127.994829,64.5 C127.994829,64.5 140.913984,64.5 166.752295,64.5" id="Path-29" stroke="#DCDCDC"></path>
@@ -128,8 +76,8 @@
                 <path d="M222.955666,21.5 C222.955666,21.5 240.394843,21.5 275.273197,21.5" id="Path-29" stroke="#FFFFFF"></path>
                 <path d="M270.071617,61.5 C270.071617,61.5 295.92213,61.5 347.623156,61.5" id="Path-29" stroke="#DCDCDC"></path>
                 <path d="M15.5079004,0.929105732 C-18.4819112,0.929105732 6.51043702,0.929105732 90.4849452,0.929105732" id="Path-29" stroke="#DCDCDC"></path>
-              </g>
-              <g id="Pink-water" transform="translate(105.000000, 382.000000)" stroke="url(#linearGradient-2)">
+            </g>
+            <g id="Pink-water" transform="translate(105.000000, 382.000000)" stroke="url(#linearGradient-2)">
                 <path d="M0.989862415,36.5 C0.989862415,36.5 14.3458274,36.5 41.0577574,36.5" id="Path-29"></path>
                 <path d="M52.1657866,87.5 C52.1657866,87.5 69.1854869,87.5 103.224888,87.5" id="Path-29"></path>
                 <path d="M107.944023,1.5 C107.944023,1.5 125.383201,1.5 160.261555,1.5" id="Path-29"></path>
@@ -140,8 +88,8 @@
                 <path d="M130.9474,167.5 C130.9474,167.5 148.386577,167.5 183.264932,167.5" id="Path-29"></path>
                 <path d="M204.5,258.5 C204.5,258.5 215.739014,258.5 238.217043,258.5" id="Path-29"></path>
                 <path d="M374.000868,0.5 C374.000868,0.5 402.370313,0.5 459.109204,0.5" id="Path-29"></path>
-              </g>
-              <g id="Buildings" transform="translate(32.000000, 113.000000)">
+            </g>
+            <g id="Buildings" transform="translate(32.000000, 113.000000)">
                 <polyline id="Path-26-Copy-8" stroke="#000000" points="162.277536 214.409308 162.277536 229.291569 175.988999 229.291569"></polyline>
                 <polygon id="Path-26-Copy-8" stroke="#000000" points="175.963766 214.409308 175.963766 229.291569 162.252303 229.291569"></polygon>
                 <polyline id="Path-26-Copy-7" stroke="#000000" points="441.377438 216.993139 441.377438 231.8754 452.624298 231.8754"></polyline>
@@ -338,8 +286,8 @@
                 <path d="M42.2656502,199.5 L78.5149827,199.5" id="Path-28" stroke="#000000"></path>
                 <path d="M38.1577626,213.5 L74.4070951,213.5" id="Path-28" stroke="#000000"></path>
                 <rect id="Rectangle-41" fill="#373737" x="0.188784556" y="240.233767" width="607.409973" height="11.25"></rect>
-              </g>
-              <g id="Trees" transform="translate(75.865405, 302.600555)" stroke="#191919" stroke-width="2">
+            </g>
+            <g id="Trees" transform="translate(75.865405, 302.600555)" stroke="#191919" stroke-width="2">
                 <path d="M11.9475841,39.606947 L11.9475841,57.8704756 L11.0087045,57.8704756 L11.0087045,39.6075763 C6.72832921,39.5034921 2.7268108,37.9151754 1.44518957,34.1913053 C-1.45840463,25.7546416 0.96474729,-5.64872917 12.3083197,1.23149772 C23.651892,8.11172461 26.0907784,28.279298 23.651892,34.1913053 C22.3679245,37.30372 17.0858822,39.4773086 11.9475841,39.606947 Z" id="Combined-Shape" fill="#3C3C3C"></path>
                 <path d="M24.0422274,39.606947 L24.0422274,57.8704756 L23.1033478,57.8704756 L23.1033478,39.6075763 C18.8229725,39.5034921 14.8214541,37.9151754 13.5398328,34.1913053 C10.6362386,25.7546416 13.0593906,-5.64872917 24.4029629,1.23149772 C35.7465353,8.11172461 38.1854217,28.279298 35.7465353,34.1913053 C34.4625677,37.30372 29.1805254,39.4773086 24.0422274,39.606947 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-4)" transform="translate(24.511667, 29.062268) scale(-1, 1) translate(-24.511667, -29.062268) "></path>
                 <path d="M35.6694669,39.606947 L35.6694669,57.8704756 L34.7305874,57.8704756 L34.7305874,39.6075763 C30.4502121,39.5034921 26.4486937,37.9151754 25.1670724,34.1913053 C22.2634782,25.7546416 24.6866301,-5.64872917 36.0302025,1.23149772 C47.3737749,8.11172461 49.8126613,28.279298 47.3737749,34.1913053 C46.0898073,37.30372 40.807765,39.4773086 35.6694669,39.606947 Z" id="Combined-Shape-Copy-2" fill="#3C3C3C"></path>
@@ -369,26 +317,26 @@
                 <path d="M500.759051,39.606947 L500.759051,57.8704756 L499.820171,57.8704756 L499.820171,39.6075763 C495.539796,39.5034921 491.538277,37.9151754 490.256656,34.1913053 C487.353062,25.7546416 489.776214,-5.64872917 501.119786,1.23149772 C512.463358,8.11172461 514.902245,28.279298 512.463358,34.1913053 C511.179391,37.30372 505.897349,39.4773086 500.759051,39.606947 Z" id="Combined-Shape-Copy-42" fill="#3C3C3C"></path>
                 <path d="M512.38629,39.606947 L512.38629,57.8704756 L511.447411,57.8704756 L511.447411,39.6075763 C507.167035,39.5034921 503.165517,37.9151754 501.883896,34.1913053 C498.980301,25.7546416 501.403453,-5.64872917 512.747026,1.23149772 C524.090598,8.11172461 526.529484,28.279298 524.090598,34.1913053 C522.80663,37.30372 517.524588,39.4773086 512.38629,39.606947 Z" id="Combined-Shape-Copy-43" fill="url(#linearGradient-2)" transform="translate(512.855730, 29.062268) scale(-1, 1) translate(-512.855730, -29.062268) "></path>
                 <path d="M524.01353,39.606947 L524.01353,57.8704756 L523.07465,57.8704756 L523.07465,39.6075763 C518.794275,39.5034921 514.792756,37.9151754 513.511135,34.1913053 C510.607541,25.7546416 513.030693,-5.64872917 524.374265,1.23149772 C535.717838,8.11172461 538.156724,28.279298 535.717838,34.1913053 C534.43387,37.30372 529.151828,39.4773086 524.01353,39.606947 Z" id="Combined-Shape-Copy-44" fill="#3C3C3C"></path>
-              </g>
-              <g id="Stars" class="stars" transform="translate(261.000000, 104.000000)" stroke="#FFFFFF">
+            </g>
+            <g id="Stars" transform="translate(261.000000, 104.000000)" stroke="#FFFFFF">
                 <g id="Group-2" transform="translate(0.390855, 12.335763)">
-                  <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
-                  <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
+                    <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
+                    <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
                 </g>
                 <g id="Group-2" transform="translate(19.722066, 58.564097)">
-                  <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
-                  <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
+                    <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
+                    <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
                 </g>
                 <g id="Group-2" transform="translate(120.749884, 0.708523)">
-                  <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
-                  <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
+                    <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
+                    <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
                 </g>
                 <g id="Group-2" transform="translate(124.646885, 73.446358)">
-                  <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
-                  <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
+                    <path d="M4.5570301,0.292699608 L4.5570301,8.80117441" id="Path-35"></path>
+                    <path d="M0.302792698,4.54693701 L8.8112675,4.54693701" id="Path-35"></path>
                 </g>
-              </g>
-              <g id="Boat-Big" class="big-boat" transform="translate(201.108035, 419.000000)">
+            </g>
+            <g id="Boat-Big" transform="translate(201.108035, 419.000000)">
                 <path d="M0.766155794,75.2808002 C60.6630508,79.7984293 101.485614,76.8483877 123.233844,66.4306756 C117.283129,88.2224677 110.494081,99.8040089 102.866703,101.175299 C99.530513,101.775097 91.3398824,100.677502 80.8251868,101.175299 C78.8795795,101.26741 76.4893424,103.053421 74.4312942,103.137901 C69.3066903,103.348258 63.8980517,103.532956 58.5268234,103.682016 C53.9535497,103.808931 48.9631168,100.65672 44.9865118,101.175299 C29.9367597,103.137901 17.2770811,104.066732 16.4780067,103.232234 C15.5323354,102.244641 10.1063693,102.69415 5.0899065,93.4638849 C3.79058489,91.0731399 2.34933465,85.0121117 0.766155794,75.2808002 Z" id="Path-32" stroke="url(#linearGradient-8)" fill="url(#linearGradient-7)"></path>
                 <path d="M62.5022142,0.548854073 L62.5022142,76.3773187" id="Path-36" stroke="#00EAD1" stroke-width="2"></path>
                 <path d="M47.2709981,20.6256529 L47.2709981,76.3714334" id="Path-36" stroke="#00EAD1" stroke-width="2"></path>
@@ -397,8 +345,8 @@
                 <path d="M79.2173841,14.5510186 C78.4385942,14.5510186 76.198185,15.3187245 72.4961564,16.8541362 C72.9456095,26.0639969 72.9456095,32.4917525 72.4961564,36.1374029 C71.3798947,45.1917404 68.1737059,51.7946614 68.4865219,51.8060083 C68.9882668,51.8242084 75.5599124,48.9676091 88.2014584,43.2362104 C88.909076,35.859977 88.909076,30.9388237 88.2014584,28.4727504 C85.2141421,18.0618435 79.7920049,14.5510186 79.2173841,14.5510186 Z" id="Path-40" fill="url(#linearGradient-4)"></path>
                 <path d="M63.3325325,0.548854073 C62.2103222,0.548854073 57.0560506,1.92013436 47.8697176,4.66269492 C54.238609,13.3850922 57.1549874,19.9184548 56.6188529,24.2627826 C55.8146511,30.7792744 47.3243559,56.7759909 47.8697176,56.7967183 C48.5927154,56.8241969 58.0622376,52.5112817 76.2782843,43.8579727 C77.3769732,33.0451369 77.3769732,25.6489183 76.2782843,21.6693169 C72.282957,7.19769518 64.1270232,0.548854073 63.3325325,0.548854073 Z" id="Path-40" fill="url(#linearGradient-2)"></path>
                 <path d="M121.835938,67.4335938 L147.15625,52.5" id="Path-37" stroke="#000000"></path>
-              </g>
-              <g id="Boat-Small" class="small-boat" transform="translate(438.330279, 379.409308) scale(-1, 1) translate(-438.330279, -379.409308) translate(393.930279, 348.209308)">
+            </g>
+            <g id="Boat-Small" transform="translate(438.330279, 379.409308) scale(-1, 1) translate(-438.330279, -379.409308) translate(393.930279, 348.209308)">
                 <path d="M0.459693476,45.1684801 C36.3978305,47.8790576 60.8913681,46.1090326 73.9403065,39.8584054 C70.3698772,52.9334806 66.2964489,59.8824053 61.7200216,60.7051794 C59.7183078,61.0650581 54.8039295,60.4065012 48.4951121,60.7051794 C47.3277477,60.760446 45.8936055,61.8320525 44.6587765,61.8827404 C41.5840142,62.008955 38.338831,62.1197733 35.116094,62.2092094 C32.3721298,62.2853588 29.3778701,60.3940318 26.9919071,60.7051794 C17.9620558,61.8827404 10.3662486,62.4400391 9.88680402,61.9393406 C9.31940122,61.3467847 6.06382156,61.6164903 3.0539439,56.078331 C2.27435093,54.6438839 1.40960079,51.007267 0.459693476,45.1684801 Z" id="Path-32" stroke="url(#linearGradient-8)" stroke-width="0.6" fill="url(#linearGradient-7)"></path>
                 <path d="M37.5013285,0.329312444 L37.5013285,45.8263912" id="Path-36" stroke="#00EAD1" stroke-width="1.2"></path>
                 <path d="M28.3625988,12.3753918 L28.3625988,45.82286" id="Path-36" stroke="#00EAD1" stroke-width="1.2"></path>
@@ -407,240 +355,13 @@
                 <path d="M47.5304305,8.73061117 C47.0631565,8.73061117 45.718911,9.19123468 43.4976938,10.1124817 C43.7673657,15.6383981 43.7673657,19.4950515 43.4976938,21.6824417 C42.8279368,27.1150443 40.9042235,31.0767968 41.0919131,31.083605 C41.3929601,31.0945251 45.3359474,29.3805655 52.9208751,25.9417262 C53.3454456,21.5159862 53.3454456,18.5632942 52.9208751,17.0836502 C51.1284853,10.8371061 47.875203,8.73061117 47.5304305,8.73061117 Z" id="Path-40" fill="url(#linearGradient-4)"></path>
                 <path d="M37.9995195,0.329312444 C37.3261933,0.329312444 34.2336304,1.15208061 28.7218306,2.79761695 C32.5431654,8.03105534 34.2929925,11.9510729 33.9713117,14.5576696 C33.4887907,18.4675646 28.3946135,34.0655946 28.7218306,34.078031 C29.1556292,34.0945181 34.8373426,31.506769 45.7669706,26.3147836 C46.4261839,19.8270822 46.4261839,15.389351 45.7669706,13.0015901 C43.3697742,4.31861711 38.4762139,0.329312444 37.9995195,0.329312444 Z" id="Path-40" fill="url(#linearGradient-2)"></path>
                 <path d="M73.1015625,40.4601562 L88.29375,31.5" id="Path-37" stroke="#000000" stroke-width="0.6"></path>
-              </g>
-              <g id="Lights1" transform="translate(146.000000, 194.000000)" fill="#FFFFFF">
+            </g>
+            <g id="Lights1" transform="translate(146.000000, 194.000000)" fill="#FFFFFF">
                 <polygon id="Path-26-Copy-3" points="14.5868018 28.813536 14.5868018 43.6957971 0.875339095 43.6957971"></polygon>
                 <polygon id="Path-26-Copy" points="296.300978 10.7267188 296.300978 25.6089799 285.054117 25.6089799"></polygon>
                 <polygon id="Path-26-Copy-15" stroke="#000000" points="411.781493 0.051474238 411.781493 14.9337353 400.534633 14.9337353"></polygon>
-              </g>
-              <circle id="Tower-light" class="tow-light" fill="#01E2D8" cx="336.518718" cy="17.3119606" r="4.5"></circle>
             </g>
-          </g>
-        </svg>
-      </div>
-    </div>
-  </header>
-  <!-- ABOUT SECTION-->
-  <div id="ABOUT">
-    <div class="container p50">
-      <h2>About</h2>
-      <div class="row">
-        <p class="col-2"><b>It's nice to meet you!</b> I'm a US-based designer that is currently situated in Boston, USA. I was born and raised in England, where I began my career as a freelance <b>graphic designer.</b></p>
-        <p class="col-2">I'm a big fan of the creative arts, and spend an unhealthy amount of time trawling sites looking for inspiration from <b>graphic artists, multimedia-UI designers, animators, and web developers.</b></p>
-        <p class="col-2">I have a wide range of experience creating designs and edits in the <b>consumer electronics, education, and business start-up industries</b>, and have chosen to focus my career on <b>User-Interface design</b>, going forward.</p>
-      </div>
-    </div>
-  </div>
-  <!-- WORK  -->
-  <div id="WORK">
-    <div class="container p50">
-      <h2 class="center pb20">WORK</h2>
-      <div class= "row center">
-        <div class="column-4 project">
-          <div class="project-preview">
-          <a href="work.html">
-            <img src="img/WorkImgs/ZenEQ.png">
-          </a>
-          <h3>Zen.EQ Audio plugin</h3>
-          <p class="project-details">Description of this project that I will change later</p>
-        </div>
-        </div>
-        <div class="column-4 project">
-          <div class="project-preview">
-          <a href="work.html">
-            <img src="img/WorkImgs/MultiFX.png">
-          </a>
-          <h3>Multi-FX Audio plugin</h3>
-          <p class="project-details">Description of this project that I will change later</p>
-        </div>
-        </div>
-        <div class="column-4 project">
-          <div class="project-preview">
-          <a href="work.html">
-            <img src="img/WorkImgs/Keys.png">
-          </a>
-          <h3>Keys Audio plugin</h3>
-          <p class="project-details">Description of this project that I will change later</p>
-        </div>
-        </div>
-        <div class="column-4 project">
-          <div class="project-preview">
-          <a href="work.html">
-            <img src="img/WorkImgs/MultiFX.png">
-          </a>
-          <h3>Example UI design</h3>
-          <p class="project-details">Description of this project that I will change later</p>
-        </div>
-        </div>
-      </div>
-      <!-- Gallery button -->
-      <div class="row pt20">
-        <a href="work.html" class="right button">View gallery ></a>
-      </div>
-    </div>
-  </div>
-  <!-- Skills & APPLICATIONS -->
-  <div id="skills-apps">
-    <div class="container p50">
-      <div class="row center">
-        <h2 class="center pb20">Tools & Skills</h2>
-        <img src="img/hero-img-newbw.png">
-      </div>
-      <div class="row center">
-
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>UI</h3>
-          <ul class="skills-list-style">
-            <li>Illustrations</li>
-            <li>Iconography</li>
-            <li>Interface creation</li>
-          </ul>
-        </div>
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>UX</h3>
-          <ul class="skills-list-style">
-            <li>Research</li>
-            <li>Wireframes</li>
-            <li>Userflow</li>
-          </ul>
-        </div>
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>Web Dev</h3>
-          <ul class="skills-list-style">
-            <li>HTML/CSS</li>
-            <li>Javascript</li>
-            <li>Web design</li>
-          </ul>
-        </div>
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>Audio</h3>
-          <ul class="skills-list-style">
-            <li>Sound FX</li>
-            <li>Music Production</li>
-            <li>Mixing/Mastering</li>
-          </ul>
-        </div>
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>Motion</h3>
-          <ul class="skills-list-style">
-            <li>Asset creation</li>
-            <li>Storyboarding</li>
-            <li>Motion graphics</li>
-          </ul>
-        </div>
-        <div class="column column-block">
-          <i class=""></i>
-          <h3>Photography</h3>
-          <ul class="skills-list-style">
-            <li>Pre/Post production</li>
-            <li>Still/Video recording</li>
-            <li>Studio set-up</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- CONTACT, SOCIAL & FOOTER -->
-  <footer>
-    <div class="container p50">
-      <h2 id="CONTACT" class="center pb20">CONTACT</h2>
-      <div class="row">
-        <div class="column col-2 contact">
-          <p>Have a project or role you'd like to discuss with me?</p>
-          <a href="mailto:jenkconstantine1@gmail.com" class="contact-button button">Contact me</a>
-        </div>
-        <div class="column col-2">
-          <ul class="social">
-            <li>
-              <a href="https://dribbble.com/Jenk">
-                <svg viewBox="0 0 128 128" version="1.1" id="Dribbble" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-                <g id="dribbble-dribbble">
-                  <circle id="dribbble-back" fill="#262626" cx="64" cy="64" r="64"/>
-                  <path id="dribbble-dribble" fill="#FFFFFF" d="M80.9063,88.6953c-1.2276-7.1953-3.2247-14.0332-5.6446-20.3945
-                  c5.2246-0.6553,11.2608-0.5098,18.25,0.7783C92.1064,77.1992,87.4473,84.1875,80.9063,88.6953z M45.8398,87.7715
-                  c5.0508-7.6152,12.1011-15.1416,23.5362-18.3067c2.6885,6.8663,4.8662,14.336,6.0371,22.2217
-                  C71.8906,93.1201,68.0322,93.9258,64,93.9258C57.1626,93.9258,50.8628,91.625,45.8398,87.7715z M34.0737,64v-0.9575h0.1792
-                  c10.6626,0,21.2691-0.7168,30.7608-3.4946c0.6894,1.4335,1.4111,2.8979,2.0605,4.4213
-                  c-12.4819,3.6763-20.2773,11.8863-25.5918,19.7095C36.8516,78.4258,34.0737,71.5264,34.0737,64z M51.126,36.9688
-                  c3.0464,4.0629,7.1118,9.9765,11.082,17.2031c-8.4228,2.3017-17.8301,2.9287-27.3276,2.9575
-                  C36.9746,48.23,43.0674,40.8525,51.126,36.9688z M83.3867,41.2109c-4.2109,5.1377-9.4971,8.6597-15.5058,11.0513
-                  c-3.8189-7.1089-7.795-13.0225-10.9253-17.354c2.268-0.5371,4.6255-0.8345,7.0444-0.8345
-                  C71.4092,34.0737,78.1572,36.7617,83.3867,41.2109z M87.5088,45.5117c3.8525,4.897,6.21,10.9898,6.418,17.6509
-                  c-8.0635-1.4028-14.9913-1.4644-20.9668-0.5068c-0.7725-1.7329-1.5508-3.4385-2.3575-5.0787
-                  C77.0195,54.9502,82.7891,51.0977,87.5088,45.5117z M64,28.1602c-19.8013,0-35.8398,16.038-35.8398,35.8398
-                  c0,19.8008,16.0385,35.8398,35.8398,35.8398c19.8018,0,35.8398-16.039,35.8398-35.8398C99.8398,44.1982,83.8018,28.1602,64,28.1602
-                  z"/>
-                </g>
-              </svg>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/in/jenkconstantine/">
-              <svg viewBox="0 0 128 128" version="1.1" id="Linkedin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-              viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-              <g>
-                <circle id="linkedin-back" fill="#262626" cx="64" cy="64" r="64"/>
-                <g id="linkedin-linkedin">
-                  <path fill="#FFFFFF" d="M29.0752,51.7471h14.8686V99.54H29.0752V51.7471z M36.5137,27.9893c4.7514,0,8.6084,3.8593,8.6084,8.6137
-                  c0,4.7554-3.857,8.6143-8.6084,8.6143c-4.7705,0-8.6172-3.8589-8.6172-8.6143C27.8965,31.8486,31.7432,27.9893,36.5137,27.9893"/>
-                  <path fill="#FFFFFF" d="M53.2622,51.7471H67.5v6.5337h0.2041c1.9805-3.7574,6.8272-7.7198,14.0537-7.7198
-                  c15.0391,0,17.8184,9.896,17.8184,22.7671V99.54H84.7246V76.2979c0-5.542-0.0957-12.6719-7.7187-12.6719
-                  c-7.7286,0-8.9082,6.04-8.9082,12.2754V99.54H53.2622V51.7471z"/>
-                </g>
-              </g>
-            </svg>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.instagram.com/jenkjenkjenk/?hl=en">
-            <svg viewBox="0 0 128 128" version="1.1" id="Instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-            viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-            <g>
-              <circle id="instagram-back" fill="#262626" cx="64" cy="64" r="64"/>
-              <path id="instagram-instagram" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M91.5713,58.4829h-6.2402
-              c0.4541,1.7651,0.7236,3.6089,0.7236,5.5156c0,12.1831-9.875,22.0562-22.0552,22.0562c-12.1797,0-22.0542-9.8731-22.0542-22.0562
-              c0-1.9067,0.2695-3.7505,0.7246-5.5156h-6.2407v30.3286c0,1.5205,1.2349,2.7549,2.7598,2.7549h49.6215
-              c1.5254,0,2.7608-1.2344,2.7608-2.7549V58.4829z M91.5713,39.186c0-1.5219-1.2354-2.7568-2.7608-2.7568H80.542
-              c-1.5225,0-2.7568,1.2349-2.7568,2.7568v8.272c0,1.522,1.2343,2.7568,2.7568,2.7568h8.2685c1.5254,0,2.7608-1.2348,2.7608-2.7568
-              V39.186z M63.9995,50.2148c-7.6133,0-13.7847,6.1705-13.7847,13.7837c0,7.6128,6.1714,13.7867,13.7847,13.7867
-              c7.6138,0,13.7857-6.1739,13.7857-13.7867C77.7852,56.3853,71.6133,50.2148,63.9995,50.2148 M91.5713,99.8398H36.4292
-              c-4.5664,0-8.269-3.7041-8.269-8.2734V36.4292c0-4.5669,3.7026-8.269,8.269-8.269h55.1421c4.5674,0,8.2685,3.7021,8.2685,8.269
-              v55.1372C99.8398,96.1357,96.1387,99.8398,91.5713,99.8398"/>
-            </g>
-          </svg>
-        </a>
-      </li>
-      <li>
-        <a href="https://www.behance.net/jenkconstantine">
-          <svg viewBox="0 0 128 128" version="1.1" id="Behance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-          viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
-          <g>
-            <circle id="behance-back" fill="#262626" cx="64" cy="64" r="64"/>
-            <path id="behance-behance" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M48.5728,66.4697H37.1035v12.1026h11.2901
-            c3.8808,0,6.955-1.2364,6.955-5.8106C55.3486,68.2754,52.7588,66.4697,48.5728,66.4697z M47.0996,48.8545h-9.9961v10.2959h10.7471
-            c3.4048,0,5.9639-1.5347,5.9639-5.2363C53.8145,49.6973,50.5913,48.8545,47.0996,48.8545z M65.4043,72.9414
-            c0,8.9453-7.6782,12.7676-15.6865,12.7676H28.1602V41.417h20.9277c8.4565,0,14.208,2.9824,14.208,11.2007
-            c0,4.3066-2.1953,7.3164-6.0488,9.1816C62.6631,63.3364,65.4043,67.4639,65.4043,72.9414z M75.9434,44.3994h17.8222v5.9307H75.9434
-            V44.3994z M83.9209,59.5732c-5.6006,0-7.2275,3.1329-7.3467,5.5694h14.3926C90.1543,60.7183,88.2285,59.5732,83.9209,59.5732z
-            M76.5742,70.8965c0.2403,5.539,2.9805,9.0918,7.8906,9.0918c3.5508,0,6.8038-2.8926,7.378-4.877h7.7666
-            c-2.4688,7.5293-8.1621,11.4717-15.4473,11.4717c-10.1445,0-16.5312-6.8975-16.5312-16.7725c0-9.5459,6.7734-16.832,16.5312-16.832
-            c10.9629,0,16.2598,8.1011,15.627,17.918H76.5742z"/>
-          </g>
-        </svg>
-      </a>
-    </li>
-  </ul>
-</div>
-</div>
-</div>
-</footer>
-<script src="js/jquery-3.3.1.min.js"></script>
-<script src="js/scripts.js"></script>
-</body>
-</html>
+            <circle id="Tower-light" fill="#01E2D8" cx="336.518718" cy="17.3119606" r="4.5"></circle>
+        </g>
+    </g>
+</svg>
